@@ -1,0 +1,13 @@
+apply plugin: 'java'
+
+
+
+
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+
+    testCompile 'junit:junit:4.12'
+}

@@ -1,0 +1,1 @@
+include ':SoulBooksApp', ':SoulBookService-Restfulapi', ':SoulBookService-html'

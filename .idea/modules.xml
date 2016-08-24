@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SoulBookService.iml" filepath="$PROJECT_DIR$/SoulBookService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoulBookService-Restfulapi/SoulBookService-Restfulapi.iml" filepath="$PROJECT_DIR$/SoulBookService-Restfulapi/SoulBookService-Restfulapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoulBookService-html/SoulBookService-html.iml" filepath="$PROJECT_DIR$/SoulBookService-html/SoulBookService-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoulBooksApp/SoulBooksApp.iml" filepath="$PROJECT_DIR$/SoulBooksApp/SoulBooksApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoulBooksApp/app.iml" filepath="$PROJECT_DIR$/SoulBooksApp/app.iml" />
+    </modules>
+  </component>
+</project>
